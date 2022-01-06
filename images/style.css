@@ -1,0 +1,35 @@
+h1{
+    font-size: 55px;
+    border-left: rgb(255, 94, 0);
+    border-image-slice: 1%;
+}
+p{
+    text-align: justify;
+}
+section{
+    display: flex;
+}
+#First-line{
+    color: rgb(3, 3, 75);
+}
+#Second-line{
+    color: rgb(20, 145, 41)
+}
+#Left-line{
+    border-left: 5px solid peru;
+    border-radius: 2px;
+}
+#button{
+    text-decoration: none;
+    color:white;
+    background-image: linear-gradient(purple,orange);
+    padding: 15px 30px;
+    border-radius: 8px;
+}
+.First-width{
+    width: 50%;
+    padding:100px;
+}
+.First-width img{
+    width:80%;
+}
