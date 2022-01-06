@@ -8,9 +8,11 @@ h2{
 }
 h3{
     font-size:30px;
+    text-align: center;
 }
 h4{
     font-size: 25px;
+    
 }
 p{
     text-align: justify;
@@ -99,6 +101,15 @@ section{
     background-repeat: no-repeat;
     background-position: right;
     
+}
+#affiliates{
+    
+    color: rgb(172, 81, 28);
+}
+#logo{
+    width: 80%;
+    padding-left: 150px;
+    border-color: black;
 }
 #footer-alignment{
     text-align: center;
