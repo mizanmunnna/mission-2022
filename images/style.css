@@ -1,3 +1,6 @@
+body{
+    margin: 0px;
+}
 h1{
     font-size: 55px;
     border-left: rgb(255, 94, 0);
@@ -17,10 +20,8 @@ h4{
 p{
     text-align: justify;
 }
-
 section{
     display: flex;
-    background-color: rgba(217, 217, 228, 0.137);
 }
 #First-line{
     color: rgb(3, 3, 75);
