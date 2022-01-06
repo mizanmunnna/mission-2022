@@ -3,6 +3,9 @@ h1{
     border-left: rgb(255, 94, 0);
     border-image-slice: 1%;
 }
+h2{
+    font-size: 45px;
+}
 h3{
     font-size:30px;
 }
@@ -38,6 +41,12 @@ section{
 #Third-line-two{
     color: rgb(57, 75, 8);
 }
+#Fourthline-one{
+    color: rgb(184, 29, 29);
+}
+#Fourthline-two{
+    color: rgb(172, 81, 28);
+}
 #bgcolor-one{
     background-color:rgba(128, 0, 128, 0.050);
     margin-left: 100px;
@@ -62,6 +71,17 @@ section{
     padding: 20px;
     
 }
+#Third-section-left-area{
+    padding-right: 0px;
+}
+#Third-section-right-area{
+    padding-left: 0px;
+}
+#Background-image{
+    background-image: url(pictures/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-y: 12px;
+}
 .First-width{
     width: 50%;
     padding:100px;
@@ -76,3 +96,14 @@ section{
 .Second-width img{
     width:50%;
 }
+.Third-width{
+    width: 50%;
+    padding: 10px 100px;
+    
+}
+.Third-width img{
+    width:85%;
+    height: 90%;
+    
+}
+
